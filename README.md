@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwb-mck
-- 👀 I’m interested in automation for on-prem and cloud deployments (Azure, AWS, GCP) using PowerShell and Terraform.
-- 🌱 I’m currently learning PowerShell, Terraform, and depening my understanding of Windows administration and SCCM.
+- 👀 I’m interested in automation for on-prem and cloud deployments (Azure, AWS, GCP) using PowerShell and Azure.
+- 🌱 I’m currently learning PowerShell, Azure, and depening my understanding of Windows administration and SCCM.
 
 <!---
 jwb-mck/jwb-mck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
