@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jwb-mck
-- 👀 I’m interested in automation for on-prem and cloud deployments (Azure, AWS, GCP) using PowerShell and Azure.
+- 👀 I’m interested in automation for on-prem and cloud deployments (Azure, AWS, GCP) using PowerShell.
 - 🌱 I’m currently learning PowerShell, Azure, and depening my understanding of Windows administration and SCCM.
 
 <!---
